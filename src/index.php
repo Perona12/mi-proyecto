@@ -1,4 +1,5 @@
 <?php 
-echo '¡Hola, bienvenido!';
+include 'functions.php'; 
+echo saludo(); 
 
 ?>"
