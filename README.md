@@ -1,2 +1,3 @@
-# Proyecto Mi-Proyecto
-Este proyecto incluye ejemplos de uso de Git y PHP.
+# Nombre del Proyecto
+
+Este proyecto es un ejemplo de cómo clonar un repositorio, añadir un archivo README.md, y hacer un push a GitHub.
