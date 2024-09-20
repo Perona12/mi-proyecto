@@ -1,6 +1,6 @@
 <?php
 function saludo() {
-    return '¡Hola desde la función saludo!';
+    return '¡Hola desde la rama main!';
 }
 
 function saludoPersonalizado($nombre) {
