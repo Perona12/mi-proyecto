@@ -4,6 +4,6 @@ function saludo() {
 }
 
 function saludoPersonalizado($nombre) {
-    return "¡Hola, $nombre! Bienvenido al proyecto.";
+    return "Hola, " . $nombre . "! Bienvenido al proyecto.";
 }
 ?>;
